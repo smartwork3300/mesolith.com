@@ -807,7 +807,7 @@ font-family: 'Ubuntu', sans-serif;
     margin-bottom: 10px;
     position: relative;
     padding-left: 20px;
-    text-transform: lowercase;
+    
   }
   .single-footer ul li a {
     color: #fff;

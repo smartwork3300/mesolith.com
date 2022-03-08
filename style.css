@@ -801,11 +801,13 @@ font-family: 'Ubuntu', sans-serif;
   }
   .single-footer ul {
     list-style: none;
+
   }
   .single-footer ul li {
     margin-bottom: 10px;
     position: relative;
     padding-left: 20px;
+    text-transform: lowercase;
   }
   .single-footer ul li a {
     color: #fff;
